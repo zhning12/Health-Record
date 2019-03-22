@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">健康记录</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_calendar">日历</string>
+    <string name="title_more">更多</string>
+
+    <string name="bmi_height">身高（cm）</string>
+    <string name="bmi_weight">体重（kg）</string>
+    <string name="bmi_btn">提交</string>
+    <string name="bmi_result">请输入你的身高和体重</string>
+    <string name="resultMes">你的BMI是 </string>
+    <string name="advice_light">你需要更多的卡路里！</string>
+    <string name="advice_average">你看起来特别棒！</string>
+    <string name="advice_heavy">你需要减肥了！</string>
+    <string name="errorHw">请输入正确的身高和体重!</string>
+    <string name="changeZh"> 切换中文 </string>
+    <string name="changeEn"> 切换英文 </string>
+
+
+
+</resources>

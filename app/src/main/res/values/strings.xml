@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Health Record</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_more">More</string>
+
+    <string name="bmi_height">Height(cm)</string>
+    <string name="bmi_weight">Weight(kg)</string>
+    <string name="bmi_btn">Submit</string>
+    <string name="bmi_result">Please input your Height and Weight.</string>
+    <string name="resultMes">Your BMI is :</string>
+    <string name="advice_light">You need more calories!</string>
+    <string name="advice_average">You look great!</string>
+    <string name="advice_heavy">You should be on diet!</string>
+    <string name="errorHw">Please input the Height and Weight!</string>
+    <string name="changeZh"> Switch Chinese </string>
+    <string name="changeEn"> Switch English </string>
+
+</resources>
